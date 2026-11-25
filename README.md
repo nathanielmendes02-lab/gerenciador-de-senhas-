@@ -243,6 +243,3 @@ O script `testes/rodar_testes.sh` (`make test`) executa 29 casos automatizados, 
 
 Também foram feitas execuções com `-fsanitize=address,undefined` (sem erros) e um teste de estresse emitindo 1000 senhas normais (o limite de 999 é respeitado e a fila circular funciona após dar a volta).
 
-## Licença
-
-Projeto acadêmico, sem fins comerciais.
