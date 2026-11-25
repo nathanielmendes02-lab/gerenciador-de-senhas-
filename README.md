@@ -2,7 +2,7 @@
 
 Sistema em **linguagem C** para informatizar a triagem e a organização das filas de uma clínica de especialidades médicas. O atendente cadastra o paciente, o sistema classifica automaticamente a categoria de atendimento, emite uma senha sequencial e controla a ordem de chamada respeitando as prioridades.
 
-> **Autor:** Nathaniel Mendes de Moraes — Engenharia de Software, UDF
+> **Aluno:** Nathaniel Mendes de Moraes — Engenharia de Software, UDF
 > **Proposta escolhida:** Questão 02 — Sistema de Gerenciamento de Senhas de Atendimento Clínico
 
 > ⚠️ As categorias e faixas etárias são **regras didáticas** definidas para esta atividade. Não reproduzem integralmente a legislação de atendimento prioritário nem substituem a avaliação clínica de risco.
